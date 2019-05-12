@@ -1,5 +1,10 @@
 # node-js-terminal-notes-app
-My First Node Js App. Simple CRUD using Node Js File System to create a JSON file which will contain notes you create using the terminal
+My First Node Js App. 
+Simple CRUD using Node Js File System to create a JSON file which will contain notes you create using the terminal.
+
+NPM packages used: 
+- Yargs https://www.npmjs.com/package/yargs (argument parser/ interpreter) 
+- chalk https://www.npmjs.com/package/chalk (terminal styling)
 
 To install: 
 1. Make sure you have NodeJs installed on your computer.
